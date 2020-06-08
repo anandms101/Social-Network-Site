@@ -1,15 +1,13 @@
-<?php
-require "config\config.php";
+<?php  
+require 'config/config.php';
+
 ?>
 
 <html>
-
 <head>
-    <title>Welcome to Swirlfeed</title>
+	<title>Welcome to Swirlfeed</title>
 </head>
-
 <body>
-    Hello Reece!!!!!
+	Hello Reece!!!!!
 </body>
-
 </html>
